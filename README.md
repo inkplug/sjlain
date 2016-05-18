@@ -1,6 +1,7 @@
 # sjlain
 Portfolio used at FreeCodeCamp
 
-![alt tag](https://github.com/inkplug/sjlain/img/portfolio.png)
+![]("https://inkplug.github.io/sjlain/img/portfolio.png")
 
 
+sjlain/img/portfolio.png
